@@ -1,0 +1,30 @@
+
+.heading {
+    color: #9b5dd6;
+}
+
+.almashtr {
+    color: #ffffff;
+}
+
+.natija {
+    margin-top: 10px;
+    display: flex;
+    font-weight: 700;
+    font-size: 26px;
+    color: #5179c3;
+}
+
+.natija::before {
+    content: "Result:";
+    display: block;
+    margin-right: 5px;
+  
+
+}
+
+
+
+
+
+
